@@ -1,5 +1,5 @@
 {
-  "contributors": [ "notschloerke", "schloerke" ],
+  "contributors": [ "notschloerke", "schloerke", "wch" ],
   "message": "Ensure that you have signed the [individual](https://rstudioblog.files.wordpress.com/2017/05/rstudio_individual_contributor_agreement.pdf) or [corporate](https://rstudioblog.files.wordpress.com/2017/05/rstudio_corporate_contributor_agreement.pdf) contributor agreement as appropriate. You can send the signed copy to jj@rstudio.com.",
   "recheckComment": "CLA bot has re-checked this pull request!"
 }
